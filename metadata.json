@@ -1,0 +1,6 @@
+{
+  "name": "SafeHer Support Platform",
+  "description": "A domestic violence safety and support platform featuring SOS alerts, an evidence vault, and safety planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
